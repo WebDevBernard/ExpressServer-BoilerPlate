@@ -2,7 +2,7 @@
 
 - This repo is a collection of learning resources I have found online.
 
-## LEARN WEB DEV
+## Learn Web Dev
 
 A collection of learning resources related to web dev.
 
@@ -31,7 +31,7 @@ A collection of learning resources related to web dev.
 - [Git Cheat Sheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 - [MD Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## LEARN ETH DEV
+## Learn Eth Dev
 
 A collection of learning resources related to eth dev.
 
@@ -41,10 +41,11 @@ A collection of learning resources related to eth dev.
 
 ### Learn Solidity:
 
+- [How to become an Eth Developer](https://hackmd.io/@1LsqLgZ9SFyvmF1L1suBIw/dapp-dev)
 - [Cryptozombies](https://cryptozombies.io/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
-- [Build smart contract](https://hackmd.io/@1LsqLgZ9SFyvmF1L1suBIw/dapp-dev)
 
 ### Reference Material:
 
 - [Mastering Ethereum Book](https://cypherpunks-core.github.io/ethereumbook/01what-is.html)<br />
+- [Solidity Cheat Sheet](https://github.com/manojpramesh/solidity-cheatsheet)

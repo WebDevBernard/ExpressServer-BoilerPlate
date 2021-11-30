@@ -1,0 +1,25 @@
+{
+  "name": "learningresources",
+  "version": "1.0.0",
+  "description": "- This repo is a collection of learning resources I have found online.",
+  "main": "index.js",
+  "dependencies": {
+    "prettier": "^2.5.0",
+    "prettier-plugin-solidity": "^1.0.0-beta.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write 'contracts/**/*.sol'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevBernard/LearningResources.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevBernard/LearningResources/issues"
+  },
+  "homepage": "https://github.com/WebDevBernard/LearningResources#readme"
+}
