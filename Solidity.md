@@ -13,7 +13,7 @@
 
 ### Primatives:
 
-- boolean: true/false,
+- bool: true/false,
 - uint( integer, unsigned integer): uint8, uint256,
 - address: 20byte Ethereum address,
 - String: "foo", "bar"
@@ -30,12 +30,12 @@
 - Don't use loops on dynamic arrays, you will run out of gas
 
 - These are always accessable in any contract:
-  -- msg.sender = address of person calling function. (owner in constructor)
-  -- msg.value = amount of ETH sent in the transaction
-  -- Block.number = number of block order in Ethereum
-  -- Block.timestamp = time block was mined. ~15 seconds per block.
-  --- Don't use Block.timestamp for randomness (Ethereum is a database available to everyone)
-  --- Do not use for making things happen after a certain period of time
+  - msg.sender = address of person calling function. (owner in constructor)
+  - msg.value = amount of ETH sent in the transaction
+  - Block.number = number of block order in Ethereum
+  - Block.timestamp = time block was mined. ~15 seconds per block.
+    - Don't use Block.timestamp for randomness (Ethereum is a database available to everyone)
+    - Do not use for making things happen after a certain period of time
 
 ### Functions:
 
