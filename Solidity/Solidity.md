@@ -5,7 +5,7 @@
 
 - Blockchain is a database with lots of different people hosting the same sequential data
 - Ethereum is a database for code that anyone can run
-- Smart Contract
+- Smart Contract acts just like a class in other programming language
 
 ### Visibility:
 

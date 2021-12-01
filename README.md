@@ -8,9 +8,9 @@ A collection of learning resources related to web dev.
 
 ### Udemy Courses by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
 
+- [Javascript](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 - [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - [MERN](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
-- [Javascript](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 
 ### Answers to [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) and Tech-Interview-Questions by [Yangshun Tay](https://github.com/yangshun):
 
