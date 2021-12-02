@@ -41,7 +41,7 @@ A collection of learning resources related to eth dev.
 
 ### Learn Solidity:
 
-- [How to become an Eth Developer](https://hackmd.io/@1LsqLgZ9SFyvmF1L1suBIw/dapp-dev)
+- [How to become an Eth developer](https://hackmd.io/@1LsqLgZ9SFyvmF1L1suBIw/dapp-dev)
 - [Cryptozombies](https://cryptozombies.io/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 
