@@ -22,7 +22,7 @@ useEffect(() => {
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ data: "Some Data" }), // body data must match "Content Type" header
+      body: JSON.stringify({ data: "Some data you want to save" }), // body data must match "Content Type" header
     });
     const data = await response.json(); // parse JSON response
     setState(data);
