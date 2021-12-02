@@ -23,7 +23,7 @@ contract ZombieFactory {
     // view function means data is for viewing and not modified.  "pure" functions means you're not accessing any data in the app
     function _generateRandomDna(string memory _str) private view returns (uint) {
       // outputs a random number but this method is insecure
-      // uint(keccak(..)) uint is to typecast as a unit
+      // uint(keccak(..)) uint is to typecast as a uint
         uint rand = uint(keccak256(abi.encodePacked(_str)));
         return rand % dnaModulus;
     }
