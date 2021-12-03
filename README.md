@@ -59,9 +59,3 @@ A collection of learning resources related to eth dev.
 
 - [Front-End Interview Questions](https://frontendinterviewhandbook.com/)
 - [Tech Interview Questions](https://techinterviewhandbook.org/)
-
-### Behavioral Interview Questions
-
-- [Educative Grokking the Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
-- [top-10-questions-to-ask-an-interviewee](https://www.themuse.com/advice/top-10-questions-to-ask-an-interviewee)
-- [tell-me-about-yourself-interview-question-answer-examples](https://www.themuse.com/advice/tell-me-about-yourself-interview-question-answer-examples)
