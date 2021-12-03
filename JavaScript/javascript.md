@@ -125,9 +125,7 @@ const myself = {
     }
   ]
 };
-```
 
-```
 function getFriendNames(person) {
   const collectedNames = [];
   if (!person.friends) {
