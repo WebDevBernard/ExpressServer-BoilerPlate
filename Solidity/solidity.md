@@ -7,7 +7,9 @@
 - Ethereum is a database for code that anyone can run
 - Smart Contract acts just like a class in other programming language
 
-| Primatives   | Description                                          | Example                                    |
+### Primatives
+
+| Name         | Description                                          | Example                                    |
 | ------------ | ---------------------------------------------------- | ------------------------------------------ |
 | bool         | boolean value                                        | true/false                                 |
 | uint         | "unsigned" integer positive number. Has no decimal   | uint8, uint256                             |
@@ -16,21 +18,25 @@
 | int          | integer, positive or negative. Has no decimal        | 0 -30000 59158                             |
 | fixed/ufixed | "Fixed" point number. Number with a decimal after it | "foo", "bar"                               |
 
-| Visibility (Function Types) | Description                                               |
-| --------------------------- | --------------------------------------------------------- |
-| external                    |                                                           |
-| public                      | Anyone can call this function                             |
-| internal                    |                                                           |
-| pure                        | Function will not modify or even read the contract's data |
-| payable                     |                                                           |
-| view                        |                                                           |
+### Visibility (Function Types)
 
-| Data Stucture (Reference Types) | Description                                                                | Example                                 |
-| ------------------------------- | -------------------------------------------------------------------------- | --------------------------------------- |
-| fixed array                     | Array that contains a single type of element, has an unchanging length     |                                         |
-| dynamic array                   | Array that contains a single type of element. Can change in size over time |                                         |
-| mappings                        | Hash tables consisting of key value pairs                                  | mapping(addres => uint)                 |
-| struct                          | collection of key value pairs that can have different types.               | struct Person {uint8 age; string name;} |
+| Name     | Description                                               |
+| -------- | --------------------------------------------------------- |
+| external |                                                           |
+| public   | Anyone can call this function                             |
+| internal |                                                           |
+| pure     | Function will not modify or even read the contract's data |
+| payable  |                                                           |
+| view     |                                                           |
+
+### Data Stucture (Reference Types)
+
+| Name          | Description                                                                | Example                                 |
+| ------------- | -------------------------------------------------------------------------- | --------------------------------------- |
+| fixed array   | Array that contains a single type of element, has an unchanging length     |                                         |
+| dynamic array | Array that contains a single type of element. Can change in size over time |                                         |
+| mappings      | Hash tables consisting of key value pairs                                  | mapping(addres => uint)                 |
+| struct        | collection of key value pairs that can have different types.               | struct Person {uint8 age; string name;} |
 
 ### Gotcha's
 
