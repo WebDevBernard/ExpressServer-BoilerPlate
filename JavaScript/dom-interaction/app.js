@@ -1,5 +1,3 @@
-const { json } = require("body-parser");
-
 const getButton = document.getElementById("get");
 const postButton = document.getElementById("post");
 

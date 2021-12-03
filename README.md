@@ -1,6 +1,6 @@
 ## ABOUT
 
-- This repo is a collection of learning resources I have found online.
+- This repo contains a readme of useful resources I have found online.
 
 ## Learn Web Dev
 
@@ -11,6 +11,11 @@ A collection of learning resources related to web dev.
 - [Javascript](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 - [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - [MERN](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
+- [TypeScript](https://www.udemy.com/course/understanding-typescript/)
+
+### Udemy Course by [Stephane Maarek](https://www.udemy.com/user/stephane-maarek/)
+
+- [AWS Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
 ### Answers to [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) and Tech-Interview-Questions by [Yangshun Tay](https://github.com/yangshun):
 

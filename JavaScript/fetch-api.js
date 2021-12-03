@@ -8,9 +8,10 @@ fetch(url)
 
 // GET request with fetch() and useEffect
 useEffect(() => {
-  fetch(url).then(
-    (response) =>
-      setState(response.json()).then((error) => console.error("Error:", error)) // do something with the response here
+  fetch(url).then((response) =>
+    setState((prev) => [...prev, response.json()]).then((error) =>
+      console.error("Error:", error)
+    )
   );
 }, []);
 
@@ -25,7 +26,7 @@ useEffect(() => {
       body: JSON.stringify({ data: "Some data you want to save" }), // body data must match "Content Type" header
     });
     const data = await response.json(); // parse JSON response
-    setState(data);
+    setState((prev) => [...prev, data]);
   } catch {
     (error) => console.error("Error:", error);
   }
