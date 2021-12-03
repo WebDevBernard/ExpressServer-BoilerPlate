@@ -17,11 +17,6 @@ A collection of learning resources related to web dev.
 
 - [AWS Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
-### Answers to [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) and Tech-Interview-Questions by [Yangshun Tay](https://github.com/yangshun):
-
-- [Front-End Interview Questions](https://frontendinterviewhandbook.com/)
-- [Tech Interview Questions](https://techinterviewhandbook.org/)
-
 ### Web Development Blog(s):
 
 - [Tania Rascia](https://www.taniarascia.com/blog/)
@@ -57,3 +52,16 @@ A collection of learning resources related to eth dev.
 
 - [Mastering Ethereum Book](https://cypherpunks-core.github.io/ethereumbook/01what-is.html)<br />
 - [Solidity Cheat Sheet](https://github.com/manojpramesh/solidity-cheatsheet)
+
+## Interview Resources
+
+### Answers to [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) and Tech-Interview-Questions by [Yangshun Tay](https://github.com/yangshun):
+
+- [Front-End Interview Questions](https://frontendinterviewhandbook.com/)
+- [Tech Interview Questions](https://techinterviewhandbook.org/)
+
+### Behavioral Interview Questions
+
+- [Educative Grokking the Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
+- [top-10-questions-to-ask-an-interviewee](https://www.themuse.com/advice/top-10-questions-to-ask-an-interviewee)
+- [tell-me-about-yourself-interview-question-answer-examples](https://www.themuse.com/advice/tell-me-about-yourself-interview-question-answer-examples)
