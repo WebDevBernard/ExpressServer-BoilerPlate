@@ -1,8 +1,13 @@
-// REST api starting file
-// npm init
-// npm install express
-// npm install nodemon
-// copy paste to script in package.json => "start": "nodemon app.js"
+## Representational State Transfer
+
+### Copy and Paste
+
+- npm init
+- npm install express
+- npm install nodemon
+- copy paste to script in package.json => "start": "nodemon app.js"
+
+```
 const express = require("express");
 const bodyParser = require("body-parser");
 const app = express();
@@ -23,3 +28,4 @@ app.use((req, res, next) => {
 });
 
 app.listen(port, () => console.log(`You're connected to port ${port}!`));
+```

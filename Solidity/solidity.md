@@ -7,23 +7,30 @@
 - Ethereum is a database for code that anyone can run
 - Smart Contract acts just like a class in other programming language
 
-### Visibility:
+| Primatives   | Description                                          | Example                                    |
+| ------------ | ---------------------------------------------------- | ------------------------------------------ |
+| bool         | boolean value                                        | true/false                                 |
+| uint         | "unsigned" integer positive number. Has no decimal   | uint8, uint256                             |
+| address      | Has methods tied to it for sending money             | 0xc2a1eB9Feb30F281c30AE4a799dd9D3F49Fc724f |
+| String       | sequence of characters                               | "foo", "bar"                               |
+| int          | integer, positive or negative. Has no decimal        | 0 -30000 59158                             |
+| fixed/ufixed | "Fixed" point number. Number with a decimal after it | "foo", "bar"                               |
 
-- external, public, internal, private
+| Visibility (Function Types) | Description                                               |
+| --------------------------- | --------------------------------------------------------- |
+| external                    |                                                           |
+| public                      | Anyone can call this function                             |
+| internal                    |                                                           |
+| pure                        | Function will not modify or even read the contract's data |
+| payable                     |                                                           |
+| view                        |                                                           |
 
-### Primatives:
-
-- bool: true/false,
-- uint( integer, unsigned integer): uint8, uint256,
-- address: 20byte Ethereum address,
-- String: "foo", "bar"
-
-### Data Structures:
-
-- Arrays: arrays can be dynamic or fixed size
-- Structs (used to define new types): struct Person {uint8 age; string name;}
-- Mappings (Hash tables): mapping(addres => uint) public balances;
-- Enum make your own types: enum Status{open, closed}
+| Data Stucture (Reference Types) | Description                                                                | Example                                 |
+| ------------------------------- | -------------------------------------------------------------------------- | --------------------------------------- |
+| fixed array                     | Array that contains a single type of element, has an unchanging length     |                                         |
+| dynamic array                   | Array that contains a single type of element. Can change in size over time |                                         |
+| mappings                        | Hash tables consisting of key value pairs                                  | mapping(addres => uint)                 |
+| struct                          | collection of key value pairs that can have different types.               | struct Person {uint8 age; string name;} |
 
 ### Gotcha's
 
@@ -36,10 +43,3 @@
   - Block.timestamp = time block was mined. ~15 seconds per block.
     - Don't use Block.timestamp for randomness (Ethereum is a database available to everyone)
     - Do not use for making things happen after a certain period of time
-
-### Functions:
-
-- (<parameter types>)
-- {internal|external|public|private}
-- [pure|constant|view|payable]
-- [returns (<return types>)]

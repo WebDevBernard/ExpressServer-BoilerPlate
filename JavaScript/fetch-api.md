@@ -1,12 +1,16 @@
-import { useState, useEffect } from "react";
-const url = "https://catfact.ninja/fact";
-const [state, setState] = useState("");
-// simple fetch "GET" with no error checking
+## Fetch API
+
+### Simple Fetch
+
+```
 fetch(url)
   .then((response) => response.json())
   .then((data) => console.log(data));
+```
 
-// GET request with fetch() and useEffect
+### React Get Request
+
+```
 useEffect(() => {
   fetch(url).then((response) =>
     setState((prev) => [...prev, response.json()]).then((error) =>
@@ -14,8 +18,11 @@ useEffect(() => {
     )
   );
 }, []);
+```
 
-// POST request with fetch() with async/await and useEffect
+### React Post Request
+
+```
 useEffect(() => {
   try {
     const response = await fetch(url, {
@@ -23,11 +30,12 @@ useEffect(() => {
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ data: "Some data you want to save" }), // body data must match "Content Type" header
+      body: JSON.stringify({ data: "Some data you want to save" }),
     });
-    const data = await response.json(); // parse JSON response
+    const data = await response.json();
     setState((prev) => [...prev, data]);
   } catch {
     (error) => console.error("Error:", error);
   }
 }, []);
+```
