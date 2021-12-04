@@ -38,7 +38,6 @@
 | lastindexOf() | finds the index of the first matching from the right side of an array                                                                                    |
 | find()        | finds the index of the first matching from the right side of an array                                                                                    |
 | findIndex()   | finds index of an object in an array                                                                                                                     |
-|               |
 | includes()    | like indexOf, works for primative values. If you do not need to know which index it's in, just need to know it exists, includes is better than indexOf() |
 | sort()        | converts an array and converts it to a string. Sort is lexical.                                                                                          |
 | reverse()     | reverses the order of an array                                                                                                                           |
