@@ -13,16 +13,13 @@ A collection of learning resources related to web dev.
 - [MERN](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
 - [TypeScript](https://www.udemy.com/course/understanding-typescript/)
 
-### Udemy Course by [Stephane Maarek](https://www.udemy.com/user/stephane-maarek/)
-
-- [AWS Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
-
 ### Web Development Blog(s):
 
 - [Tania Rascia](https://www.taniarascia.com/blog/)
 
 ### Reference Materials:
 
+- [JavaScript.info](JavaScript.info)
 - [Html & CSS](https://wtf.tw/ref/duckett.pdf)
 - [Eloquent JS](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 - [TS Book](https://basarat.gitbook.io/typescript/)

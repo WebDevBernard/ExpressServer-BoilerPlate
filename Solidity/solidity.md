@@ -20,14 +20,14 @@
 
 ### Visibility (Function Types)
 
-| Name     | Description                                               |
-| -------- | --------------------------------------------------------- |
-| external |                                                           |
-| public   | Anyone can call this function                             |
-| internal |                                                           |
-| pure     | Function will not modify or even read the contract's data |
-| payable  |                                                           |
-| view     |                                                           |
+| Name     | Description                                                                                    |
+| -------- | ---------------------------------------------------------------------------------------------- |
+| external | similar to public, except that these functions can ONLY be called outside the contract         |
+| public   | Anyone can call this function                                                                  |
+| internal | same as private, except that it's also accessible to contracts that inherit from this contract |
+| pure     | Function will not modify or even read the contract's data                                      |
+| payable  |                                                                                                |
+| view     |                                                                                                |
 
 ### Data Stucture (Reference Types)
 
