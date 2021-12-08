@@ -8,10 +8,9 @@ A collection of learning resources related to web dev.
 
 ### Udemy Courses by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
 
-- [Javascript](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
-- [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
-- [MERN](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
-- [TypeScript](https://www.udemy.com/course/understanding-typescript/)
+| Name                                                                       | What I learned from these courses                                                                                               |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) | [Redux-Store](https://github.com/WebDevBernard/Redux-Store)<br/>[Reducer-Store](https://github.com/WebDevBernard/Reducer-Store) |
 
 ### Web Development Blog(s):
 
@@ -19,7 +18,7 @@ A collection of learning resources related to web dev.
 
 ### Reference Materials:
 
-- [JavaScript.info](JavaScript.info)
+- [JavaScript.info](https://javascript.info/)
 - [Html & CSS](https://wtf.tw/ref/duckett.pdf)
 - [Eloquent JS](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 - [TS Book](https://basarat.gitbook.io/typescript/)
