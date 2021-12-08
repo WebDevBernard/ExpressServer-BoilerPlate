@@ -1,16 +1,21 @@
 ## ABOUT
 
-- This repo contains a readme of useful resources I have found online.
+- This repo contains a readme of notes and useful resources I have found online.
 
 ## Learn Web Dev
 
 A collection of learning resources related to web dev.
 
-### Udemy Courses by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
+### Courses
 
-| Name                                                                       | What I learned from these courses                                                                                               |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) | [Redux-Store](https://github.com/WebDevBernard/Redux-Store)<br/>[Reducer-Store](https://github.com/WebDevBernard/Reducer-Store) |
+| Course                                                                        | Quick links to repos I've started                                                                                               |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)    | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
+| [TypeScript](https://www.udemy.com/course/understanding-typescript/)          | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
+| [JavaScript](https://www.udemy.com/course/understanding-typescript/)          | [JavaScript-DOM](https://github.com/WebDevBernard/JavaScript-DOM)                                                               |
+| [Build 15 Vanilla JS Projects](https://www.youtube.com/watch?v=3PHXvlpOkf4)   | [FCC-VanillaJS-Projects](https://github.com/WebDevBernard/FCC-VanillaJS-Projects)                                               |
+| [ReactNative](https://www.udemy.com/course/react-native-the-practical-guide/) | [ReactNative-Store](https://github.com/WebDevBernard/ReactNative-Store)                                                         |
+| [NodeJS](https://www.udemy.com/course/nodejs-the-complete-guide/)             | [REST-API](https://github.com/WebDevBernard/REST-API)<br/>[GRAPHQL](https://github.com/WebDevBernard/GraphQL)                   |
 
 ### Web Development Blog(s):
 
@@ -30,10 +35,6 @@ A collection of learning resources related to web dev.
 ## Learn Eth Dev
 
 A collection of learning resources related to eth dev.
-
-### Udemy Courses by [Stephen Grider](https://www.udemy.com/user/sgslo/):
-
-- [Solidity](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
 
 ### Learn Solidity:
 
