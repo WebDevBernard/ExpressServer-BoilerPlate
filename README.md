@@ -8,14 +8,14 @@ A collection of learning resources related to web dev.
 
 ### Courses
 
-| Course                                                                        | Quick links to repos I've started                                                                                               |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)    | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
-| [TypeScript](https://www.udemy.com/course/understanding-typescript/)          | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
-| [JavaScript](https://www.udemy.com/course/understanding-typescript/)          | [JavaScript-DOM](https://github.com/WebDevBernard/JavaScript-DOM)                                                               |
-| [Build 15 Vanilla JS Projects](https://www.youtube.com/watch?v=3PHXvlpOkf4)   | [FCC-VanillaJS-Projects](https://github.com/WebDevBernard/FCC-VanillaJS-Projects)                                               |
-| [ReactNative](https://www.udemy.com/course/react-native-the-practical-guide/) | [ReactNative-Store](https://github.com/WebDevBernard/ReactNative-Store)                                                         |
-| [NodeJS](https://www.udemy.com/course/nodejs-the-complete-guide/)             | [REST-API](https://github.com/WebDevBernard/REST-API)<br/>[GRAPHQL](https://github.com/WebDevBernard/GraphQL)                   |
+| Course                                                                         | Quick links to repos I've started                                                                                               |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)     | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
+| [TypeScript](https://www.udemy.com/course/understanding-typescript/)           | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
+| [JavaScript](https://www.udemy.com/course/understanding-typescript/)           | [JavaScript-DOM](https://github.com/WebDevBernard/JavaScript-DOM)                                                               |
+| [Build 15 Vanilla JS Projects](https://www.youtube.com/watch?v=3PHXvlpOkf4)    | [FCC-VanillaJS-Projects](https://github.com/WebDevBernard/FCC-VanillaJS-Projects)                                               |
+| [React Native](https://www.udemy.com/course/react-native-the-practical-guide/) | [ReactNative-Store](https://github.com/WebDevBernard/ReactNative-Store)                                                         |
+| [NodeJS](https://www.udemy.com/course/nodejs-the-complete-guide/)              | [REST-API](https://github.com/WebDevBernard/REST-API)<br/>[GRAPHQL](https://github.com/WebDevBernard/GraphQL)                   |
 
 ### Web Development Blog(s):
 

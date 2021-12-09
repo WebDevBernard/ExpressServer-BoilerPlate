@@ -24,18 +24,15 @@ useEffect(() => {
 
 ```
 useEffect(() => {
-  try {
-    const response = await fetch(url, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ data: "Some data you want to save" }),
-    });
-    const data = await response.json();
-    setState((prev) => [...prev, data]);
-  } catch {
-    (error) => console.error("Error:", error);
-  }
+  const response = await fetch(url, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ data: "Some data you want to save" }),
+  });
+  const data = await response.json();
+  setState((prev) => [...prev, data]);
+  (error) => console.error("Error:", error);
 }, []);
 ```
