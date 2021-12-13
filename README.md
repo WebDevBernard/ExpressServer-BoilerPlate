@@ -11,7 +11,6 @@ A collection of learning resources related to web dev.
 | Course                                                                      | Quick links to repos I've started                                                                                               |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)  | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
-| [JavaScript](https://www.udemy.com/course/understanding-typescript/)        | [JavaScript-DOM](https://github.com/WebDevBernard/JavaScript-DOM)                                                               |
 | [Build 15 Vanilla JS Projects](https://www.youtube.com/watch?v=3PHXvlpOkf4) | [FCC-VanillaJS-Projects](https://github.com/WebDevBernard/FCC-VanillaJS-Projects)                                               |
 
 ### Web Development Blog(s):
