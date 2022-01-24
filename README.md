@@ -8,10 +8,10 @@ A collection of learning resources related to web dev.
 
 ### Courses
 
-| Course                                                                     | Quick links to repos I've started                                                                                               |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
-|  |
+| Course                                                                                           | Quick links to repos I've started                                                                                               |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                       | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
+| [JavaScript](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) | [VanillaJS](https://github.com/WebDevBernard/VanillaJS)                                                                         |
 
 ### Web Development Blog(s):
 
