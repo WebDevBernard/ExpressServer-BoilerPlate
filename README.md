@@ -8,10 +8,11 @@ A collection of learning resources related to web dev.
 
 ### Courses
 
-| Course                                                                                           | Quick links to repos I've started                                                                                               |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                       | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
-| [JavaScript](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) | [VanillaJS](https://github.com/WebDevBernard/VanillaJS)                                                                         |
+| Course                                                                                                         | Quick links to repos I've started                                                                                               |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                                     | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
+| [React-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/?couponCode=573E5EBA0886520885DF) | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
+| [JavaScript](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)               | [VanillaJS](https://github.com/WebDevBernard/VanillaJS)                                                                         |
 
 ### Web Development Blog(s):
 
