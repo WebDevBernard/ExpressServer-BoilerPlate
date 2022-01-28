@@ -28,11 +28,22 @@
 
 ### Express Server Installation:
 
-`run: cd Javascript/express-server`<br/>
-`run: npm install`<br/>
-`run: npm start`<br/>
+`cd Javascript/express-server`<br/>
+`npm install`<br/>
+`npm start`<br/>
 
 - [CodePen Fetch API to test Express Server](https://codepen.io/webdevbernard/pen/mdqJmzX)
+
+### VS Code Environment Setup
+
+- setup TypeScript
+
+`view/command palette >install path`<br/> <!-- open VS Code shortcut: code . -->
+`view/extenstions search prettier`<br/> <!-- install prettier -->
+`file(code)/preferences search format on save`<br/> <!-- run prettier on save-->
+`file(code)/preferences search tab size: change to 2`<br/> <!-- change tab from 4 to 2 -->
+`file(code)/preferences search theme: change to solarized light `<br/> <!-- change tab from 4 to 2 -->
+`file(code)/preferences search activity bar`<br/> <!-- toggle activity bar visibility -->
 
 ## Learn Eth Dev
 
