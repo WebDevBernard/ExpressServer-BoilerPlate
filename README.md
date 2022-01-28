@@ -14,15 +14,6 @@
 | [React-Memory-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/)                 | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
 | [React with TypeScript](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
 
-### Simple Express Server Installation:
-
-`run: cd Javascript/express-server`<br/>
-`run: npm install`<br/>
-`run: npm start`<br/>
-`view on: localhost:3000`
-
-- [Test Express Server with Fetch API](https://codepen.io/webdevbernard/pen/mdqJmzX)
-
 ### Web Development Blog(s):
 
 - [Tania Rascia](https://www.taniarascia.com/blog/)
@@ -37,6 +28,15 @@
 - [VS Code Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [Git Cheat Sheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 - [MD Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Express Server Installation:
+
+`run: cd Javascript/express-server`<br/>
+`run: npm install`<br/>
+`run: npm start`<br/>
+`view on: localhost:3000`
+
+- [Test Express Server with Fetch API](https://codepen.io/webdevbernard/pen/mdqJmzX)
 
 ## Learn Eth Dev
 
@@ -62,3 +62,7 @@
 
 - [Front-End Interview Questions](https://frontendinterviewhandbook.com/)
 - [Tech Interview Questions](https://techinterviewhandbook.org/)
+
+### JavaScript Algo + Data Structures
+
+- [Stephen Grider's Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
