@@ -25,9 +25,6 @@
 - [Eloquent JS](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 - [TS Book](https://basarat.gitbook.io/typescript/)
 - [JS Best Practices](https://github.com/airbnb/javascript)
-- [VS Code Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-- [Git Cheat Sheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
-- [MD Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Express Server Installation:
 
@@ -36,7 +33,7 @@
 `run: npm start`<br/>
 `view on: localhost:3000`
 
-- [Test Express Server with Fetch API](https://codepen.io/webdevbernard/pen/mdqJmzX)
+- [CodePen Fetch API to test Express Server](https://codepen.io/webdevbernard/pen/mdqJmzX)
 
 ## Learn Eth Dev
 
@@ -63,6 +60,6 @@
 - [Front-End Interview Questions](https://frontendinterviewhandbook.com/)
 - [Tech Interview Questions](https://techinterviewhandbook.org/)
 
-### JavaScript Algo + Data Structures
+### JavaScript Algorithm + Data Structures
 
-- [Stephen Grider's Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+- [JS Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
