@@ -8,12 +8,12 @@ A collection of learning resources related to web dev.
 
 ### Courses
 
-| Course                                                                                                         | Quick links to repos I've started                                                                                               |
-| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                                     | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
-| [React-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/?couponCode=573E5EBA0886520885DF) | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
-| [JavaScript](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)                                         | [VanillaJS](https://github.com/WebDevBernard/VanillaJS)                                                                         |
-| [TypeScript](https://www.udemy.com/course/understanding-typescript/)                                           | [TypeScript-DND](https://github.com/WebDevBernard/TypeScript-DND)                                                               |
+| Course                                                                                                           | Quick links to repos I've started                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                                       | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
+| [React-Memory-Game](https://www.youtube.com/watch?v=ZCKohZwGZMw&list=PL4cUxeGkcC9iQ7g2eoNXHCJBBBz40S_Lm&index=1) | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
+| [NodeJS](https://www.udemy.com/course/nodejs-the-complete-guide/)                                                | [VanillaJS](https://github.com/WebDevBernard/VanillaJS)                                                                         |
+| [TypeScript](https://www.udemy.com/course/understanding-typescript/)                                             | [TypeScript-DND](https://github.com/WebDevBernard/TypeScript-DND)                                                               |
 
 ### Web Development Blog(s):
 
