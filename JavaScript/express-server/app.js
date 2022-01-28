@@ -1,4 +1,4 @@
-// npm init
+// npm init -y
 // npm i express cors morgan dotenv nodemon
 // copy paste to script in package.json => "start": "nodemon app.js",
 const express = require("express");
@@ -16,12 +16,8 @@ app.use(express.json()); // application/json
 app.use(cors());
 app.use(morgan("tiny"));
 
-// routes
-
 // http://localhost:5000/api/posts
 app.use("/api", routes);
-
-// GET, PUT, POST, DELETE
 
 app.get("/", async (req, res) => {
   res.send({ message: "🚀 GET Works!" });

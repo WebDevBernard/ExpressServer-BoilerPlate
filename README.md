@@ -8,11 +8,11 @@
 
 ### Courses
 
-| Course                                                                                                | Quick links to repos I've started                                                                                               |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                            | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
-| [React-Memory-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/)                 | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
-| [React with TypeScript](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
+| Course                                                                                | Quick links to repos I've started                                                                                               |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)            | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
+| [React-Memory-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/) | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
+| [TypeScript](https://www.udemy.com/course/understanding-typescript/)                  | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
 
 ### Web Development Blog(s):
 
@@ -23,15 +23,14 @@
 - [JavaScript.info](https://javascript.info/)
 - [Html & CSS](https://wtf.tw/ref/duckett.pdf)
 - [Eloquent JS](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
-- [TS Book](https://basarat.gitbook.io/typescript/)
 - [JS Best Practices](https://github.com/airbnb/javascript)
+- [TS Book](https://basarat.gitbook.io/typescript/)
 
 ### Express Server Installation:
 
 `run: cd Javascript/express-server`<br/>
 `run: npm install`<br/>
 `run: npm start`<br/>
-`view on: localhost:3000`
 
 - [CodePen Fetch API to test Express Server](https://codepen.io/webdevbernard/pen/mdqJmzX)
 
