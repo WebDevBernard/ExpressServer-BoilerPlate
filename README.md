@@ -8,11 +8,11 @@
 
 ### Courses
 
-| Course                                                                                | Quick links to repos I've started                                                                                               |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)            | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
-| [React-Memory-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/) | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
-| [TypeScript](https://www.udemy.com/course/understanding-typescript/)                  | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
+| Course                                                                                                | Quick links to repos I've started                                                                                               |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                            | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
+| [React-Memory-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/)                 | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
+| [React with TypeScript](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
 
 ### Web Development Blog(s):
 
@@ -32,18 +32,16 @@
 `npm install`<br/>
 `npm start`<br/>
 
-- [CodePen Fetch API to test Express Server](https://codepen.io/webdevbernard/pen/mdqJmzX)
+- [Test Express Server with Fetch API CodePen](https://codepen.io/webdevbernard/pen/mdqJmzX)
 
 ### VS Code Environment Setup
 
-- setup TypeScript
-
 `view/command palette >install path`<br/> <!-- open VS Code shortcut: code . -->
-`view/extenstions search prettier`<br/> <!-- install prettier -->
-`file(code)/preferences search format on save`<br/> <!-- run prettier on save-->
-`file(code)/preferences search tab size: change to 2`<br/> <!-- change tab from 4 to 2 -->
-`file(code)/preferences search theme: change to solarized light `<br/> <!-- change tab from 4 to 2 -->
-`file(code)/preferences search activity bar`<br/> <!-- toggle activity bar visibility -->
+`view/extentions search prettier`<br/> <!-- install prettier -->
+`file or (code)/preferences search format on save`<br/> <!-- run prettier on save-->
+`file or (code)/preferences search tab size: change to 2`<br/> <!-- change tab from 4 to 2 -->
+`file or (code)/preferences search theme: change to solarized light `<br/> <!-- change theme -->
+`file or (code)/preferences search activity bar`<br/> <!-- toggle activity bar visibility -->
 
 ## Learn Eth Dev
 
@@ -72,4 +70,4 @@
 
 ### JavaScript Algorithm + Data Structures
 
-- [JS Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+- [JavaScript Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
