@@ -4,24 +4,24 @@
 
 ## Learn Web Dev
 
-A collection of learning resources related to web dev.
+- A collection of learning resources related to web dev.
 
 ### Courses
 
-| Course                                                                                                                | Quick links to repos I've started                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                                            | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
-| [React-Memory-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/?couponCode=573E5EBA0886520885DF) | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
-| [React with TypeScript](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/)                 | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
+| Course                                                                                                | Quick links to repos I've started                                                                                               |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                            | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
+| [React-Memory-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/)                 | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
+| [React with TypeScript](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
 
-### Express Server Installation
+### Simple Express Server Installation:
 
-`run: cd javascript/express-server`<br/>
+`run: cd Javascript/express-server`<br/>
 `run: npm install`<br/>
 `run: npm start`<br/>
 `view on: localhost:3000`
 
-[Test Express Server with Fetch API](https://codepen.io/webdevbernard/pen/mdqJmzX)
+- [Test Express Server with Fetch API](https://codepen.io/webdevbernard/pen/mdqJmzX)
 
 ### Web Development Blog(s):
 
@@ -40,7 +40,7 @@ A collection of learning resources related to web dev.
 
 ## Learn Eth Dev
 
-A collection of learning resources related to eth dev.
+- A collection of learning resources related to eth dev.
 
 ### Learn Solidity:
 
