@@ -12,8 +12,16 @@ A collection of learning resources related to web dev.
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                                            | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
 | [React-Memory-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/?couponCode=573E5EBA0886520885DF) | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
-| [Apollo Tutorial](https://www.apollographql.com/docs/tutorial/introduction/)                                          |
-| [TypeScript](https://www.udemy.com/course/understanding-typescript/)                                                  | [TypeScript](https://github.com/WebDevBernard/TypeScript-DND)                                                                   |
+| [React with TypeScript](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/)                 | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
+
+### Express Server Installation
+
+`run: cd javascript/express-server`<br/>
+`run: npm install`<br/>
+`run: npm start`<br/>
+`view on: localhost:3000`
+
+[Test Express Server with Fetch API](https://codepen.io/webdevbernard/pen/mdqJmzX)
 
 ### Web Development Blog(s):
 
