@@ -34,15 +34,6 @@
 
 - [Test Express Server with Fetch API CodePen](https://codepen.io/webdevbernard/pen/mdqJmzX)
 
-### VS Code Environment Setup
-
-`view/command palette >install path`<br/> <!-- open VS Code shortcut: code . -->
-`view/extentions search prettier`<br/> <!-- install prettier -->
-`file or (code)/preferences search format on save`<br/> <!-- run prettier on save-->
-`file or (code)/preferences search tab size: change to 2`<br/> <!-- change tab from 4 to 2 -->
-`file or (code)/preferences search theme: change to solarized light `<br/> <!-- change theme -->
-`file or (code)/preferences search activity bar`<br/> <!-- toggle activity bar visibility -->
-
 ## Learn Eth Dev
 
 - A collection of learning resources related to eth dev.
@@ -68,6 +59,6 @@
 - [Front-End Interview Questions](https://frontendinterviewhandbook.com/)
 - [Tech Interview Questions](https://techinterviewhandbook.org/)
 
-### JavaScript Algorithm + Data Structures
+### JavaScript Algorithm + Data Structures:
 
 - [JavaScript Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
