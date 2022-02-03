@@ -49,6 +49,7 @@
 
 ### Reference Material:
 
+- [Notes on Gas Optimization](https://github.com/0xpranay/solidity-notes)<br />
 - [Mastering Ethereum Book](https://cypherpunks-core.github.io/ethereumbook/01what-is.html)<br />
 - [Solidity Cheat Sheet](https://github.com/manojpramesh/solidity-cheatsheet)
 
