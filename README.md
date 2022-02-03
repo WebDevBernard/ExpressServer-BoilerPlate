@@ -61,4 +61,12 @@
 
 ### JavaScript Algorithm + Data Structures:
 
-- [JavaScript Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+| Course                                                                                                                                | Course Repo with Answers                                        | My Repo |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------- |
+| [JavaScript Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) | [Repo with Answers](https://github.com/StephenGrider/AlgoCasts) |
+
+- run tests with this command:
+
+```
+jest ./fib/test.js --runTestsByPath --watch
+```
