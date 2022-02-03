@@ -61,8 +61,8 @@
 
 ### JavaScript Algorithm + Data Structures:
 
-| Course                                                                                                                                | Course Repo with Answers                                        | My Repo |
-| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------- |
+| Algo-Exercises Course                                                                                                                 | Course Repo with Answers                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | [JavaScript Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) | [Repo with Answers](https://github.com/StephenGrider/AlgoCasts) |
 
 - run tests with this command:
