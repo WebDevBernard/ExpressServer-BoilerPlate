@@ -1,13 +1,13 @@
 - setup TypeScript
 
-`npm install -g parcel-bundler`
-`npm install -g typescript ts-node`
-installs type definition for ts-node
+`npm install -g parcel-bundler`<br/>
+`npm install -g typescript ts-node`<br/>
+installs type definition for ts-node <br/>
 `npm install @types/node --save-dev`
 
 - execute TypeScript code
 
-  `ts-node index.ts`
+`ts-node index.ts`
 
 - generate Typescript React project
 
@@ -29,10 +29,9 @@ installs type definition for ts-node
 
 - Tuples (not used much)
 
-| Description                                                                  | Example                                     |
-| ---------------------------------------------------------------------------- | ------------------------------------------- |
-| Array-like structure where each element represents some property of a record | `type Drink = [string, boolean, number];`   |
-|                                                                              | `const pepsi: Drink = ["brown", true, 40];` |
+| Description                                                                  | Example                                                                                     |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Array-like structure where each element represents some property of a record | `type Drink = [string, boolean, number];` <br/> `const pepsi: Drink = ["brown", true, 40];` |
 
 - Interfaces
 
