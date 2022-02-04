@@ -1,4 +1,4 @@
-## ABOUT
+## About
 
 - This repo contains a readme of notes and useful resources I have found online.
 
@@ -12,7 +12,7 @@
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                            | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
 | [React-Memory-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/)                 | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
-| [React with TypeScript](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) | [TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                       |
+| [React with TypeScript](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) | [React-TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                 |
 
 ### Web Development Blog(s):
 
@@ -62,12 +62,12 @@
 
 ### JavaScript Algorithm + Data Structures:
 
-| Algo-Exercises Course                                                                                                                 | Course Repo with Answers                                        |
+| Algo-Exercises Course                                                                                                                 | Course Repo to Answers                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | [JavaScript Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) | [Repo with Answers](https://github.com/StephenGrider/AlgoCasts) |
 
 - run tests with this command:
 
 ```
-jest ./fib/test.js --runTestsByPath --watch
+jest test.js --runTestsByPath --watch
 ```

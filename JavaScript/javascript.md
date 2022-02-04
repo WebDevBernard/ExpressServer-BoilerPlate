@@ -41,5 +41,5 @@
 | includes()    | like indexOf, works for primative values. If you do not need to know which index it's in, just need to know it exists, includes is better than indexOf() |
 | sort()        | converts an array and converts it to a string. Sort is lexical.                                                                                          |
 | reverse()     | reverses the order of an array                                                                                                                           |
-| split()       | converts a string into a array Array1.split(;)                                                                                                           |
-| join()        | merge array elements into a single string Array1.join(" ")                                                                                               |
+| split()       | converts a string into a array str.split("")                                                                                                             |
+| join()        | merge array elements into a single string str.split("").reverse().join(" ")                                                                              |
