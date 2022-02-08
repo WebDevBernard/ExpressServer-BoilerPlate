@@ -26,14 +26,6 @@
 - [JS Best Practices](https://github.com/airbnb/javascript)
 - [TS Book](https://basarat.gitbook.io/typescript/)
 
-### Express Server Installation:
-
-`cd Javascript/express-server`<br/>
-`npm install`<br/>
-`npm start`<br/>
-
-- [Test Express Server with Fetch API CodePen](https://codepen.io/webdevbernard/pen/mdqJmzX)
-
 ## Learn Eth Dev
 
 - A collection of learning resources related to eth dev.
@@ -71,3 +63,13 @@
 ```
 jest test.js --runTestsByPath --watch
 ```
+
+## Extra
+
+### Express Server Installation:
+
+`cd Javascript/express-server`<br/>
+`npm install`<br/>
+`npm start`<br/>
+
+- [Test Express Server with Fetch API CodePen](https://codepen.io/webdevbernard/pen/mdqJmzX)
