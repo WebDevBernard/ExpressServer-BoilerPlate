@@ -52,6 +52,10 @@
 - [Front-End Interview Questions](https://frontendinterviewhandbook.com/)
 - [Tech Interview Questions](https://techinterviewhandbook.org/)
 
+### React Interview Questions
+
+- [React-Interview-Questions](https://scrimba.com/articles/react-interview-questions/)
+
 ### JavaScript Algorithm + Data Structures:
 
 | Algo-Exercises Course                                                                                                                 | Course Repo to Answers                                          |
