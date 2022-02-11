@@ -6,13 +6,13 @@
 
 - A collection of learning resources related to web dev.
 
-### Courses
+### My Repos
 
-| Course                                                                                                | Quick links to repos I've started                                                                                               |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)                            | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
-| [React-Memory-Game](https://www.udemy.com/course/build-web-apps-with-react-firebase/)                 | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
-| [React with TypeScript](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/) | [React-TypeScript](https://github.com/WebDevBernard/TypeScript)                                                                 |
+| Description                           | Quick links to repos I've started                                                                                               |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| React Context API && React Redux      | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
+| React Memory Game                     | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
+| Collection of React Tutorial Projects | [React-Projects](https://github.com/WebDevBernard/React-Projects)                                                               |
 
 ### Web Development Blog(s):
 
@@ -41,7 +41,7 @@
 
 ### Reference Material:
 
-- [Notes on Gas Optimization](https://github.com/0xpranay/solidity-notes)<br />
+- [Solidity Notes](https://0xpranay.github.io/solidity-notes/)<br />
 - [Mastering Ethereum Book](https://cypherpunks-core.github.io/ethereumbook/01what-is.html)<br />
 - [Solidity Cheat Sheet](https://github.com/manojpramesh/solidity-cheatsheet)
 
