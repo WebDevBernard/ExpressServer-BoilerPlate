@@ -8,11 +8,10 @@
 
 ### My Repos
 
-| Description                           | Quick links to repos I've started                                                                                               |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| React Context API && React Redux      | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
-| React Memory Game                     | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
-| Collection of React Tutorial Projects | [React-Projects](https://github.com/WebDevBernard/React-Projects)                                                               |
+| Description                      | Quick links to repos I've started                                                                                               |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| React Context API && React Redux | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
+| React Memory Game                | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
 
 ### Web Development Blog(s):
 
@@ -52,7 +51,7 @@
 - [Front-End Interview Questions](https://frontendinterviewhandbook.com/)
 - [Tech Interview Questions](https://techinterviewhandbook.org/)
 
-### React Interview Questions
+### React Interview Questions:
 
 - [React-Interview-Questions](https://scrimba.com/articles/react-interview-questions/)
 
