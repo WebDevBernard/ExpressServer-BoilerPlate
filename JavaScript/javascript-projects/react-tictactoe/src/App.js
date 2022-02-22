@@ -1,8 +1,16 @@
+import { useState } from "react";
 import "./App.css";
 
-const Square = () => {
-  const handleClick = () => {};
-  return <td>-</td>;
+const Square = ({ num }) => {
+  const [turn, setTurn] = useState("x");
+  const handleClick = (num) => {
+    if (turn === "x") {
+      setTurn("o");
+    } else {
+      setTurn("x");
+    }
+  };
+  return <td onClick={() => handleClick(num)}>-</td>;
 };
 
 const Board = () => {
