@@ -6,12 +6,19 @@
 
 - A collection of learning resources related to web dev.
 
-### My Repos
+### Practice Projects in this Repo
 
-| Description                      | Quick links to repos I've started                                                                                               |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| React Context API && React Redux | [Reducer-Store](https://github.com/WebDevBernard/Reducer-Store)<br/>[Redux-Store](https://github.com/WebDevBernard/Redux-Store) |
-| React Memory Game                | [React-Game](https://github.com/WebDevBernard/React-Game)                                                                       |
+| Description             | Links                                                                                                                         |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| - MVC-express-server    | [Test Express Server with Fetch API CodePen](https://codepen.io/webdevbernard/pen/mdqJmzX)                                    |
+| - React-tictactoe       |
+| - React-weather-app     |
+| - React-typescript-todo |
+| - Algo-excercises       | [JS Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) |
+
+```
+jest test.js --runTestsByPath --watch
+```
 
 ### Web Development Blog(s):
 
@@ -50,29 +57,3 @@
 
 - [Front-End Interview Questions](https://frontendinterviewhandbook.com/)
 - [Tech Interview Questions](https://techinterviewhandbook.org/)
-
-### React Interview Questions:
-
-- [React-Interview-Questions](https://scrimba.com/articles/react-interview-questions/)
-
-### JavaScript Algorithm + Data Structures:
-
-| Algo-Exercises Course                                                                                                                 | Course Repo to Answers                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [JavaScript Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) | [Repo with Answers](https://github.com/StephenGrider/AlgoCasts) |
-
-- run tests with this command:
-
-```
-jest test.js --runTestsByPath --watch
-```
-
-## Extra
-
-### Express Server Installation:
-
-`cd Javascript/express-server`<br/>
-`npm install`<br/>
-`npm start`<br/>
-
-- [Test Express Server with Fetch API CodePen](https://codepen.io/webdevbernard/pen/mdqJmzX)
