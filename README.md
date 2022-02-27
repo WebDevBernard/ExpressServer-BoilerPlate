@@ -16,10 +16,6 @@
 | - React-typescript-todo |
 | - Algo-excercises       | [JS Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) |
 
-```
-jest test.js --runTestsByPath --watch
-```
-
 ### Web Development Blog(s):
 
 - [Tania Rascia](https://www.taniarascia.com/blog/)
