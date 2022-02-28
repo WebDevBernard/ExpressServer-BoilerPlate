@@ -20,6 +20,10 @@
 
 ### React with TypeScript
 
+- Tuples
+
+[https://fettblog.eu/typescript-react-typeing-custom-hooks/](https://fettblog.eu/typescript-react-typeing-custom-hooks/)
+
 - React Parent Component
 
 ```
