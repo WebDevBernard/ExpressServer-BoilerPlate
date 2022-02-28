@@ -184,7 +184,7 @@ Promise.all([
 //   position: abolute;
 //   top: 50%;
 //   left: 50%;
-//   transform: translate(50%, 50%);
+//   transform: translate(-50%, -50%);
 // }
 // // method 2
 // {
@@ -212,7 +212,7 @@ Promise.all([
 
 // Question 4 Implement Debounce
 // Debounce only after a certain time has past it will perform an action
-// cd to test-project // npm start
+// cd to react-project // npm start
 const myDebounce = (cb, d) => {
   let timer;
   return function (...args) {
