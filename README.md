@@ -8,13 +8,13 @@
 
 ### Practice Projects in this Repo
 
-| Description           | Links                                                                                                                         |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Algo-excercises       | [JS Algorithm + Data Structure Course](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) |
-| MVC-express-server    | [Test Express Server with Fetch API CodePen](https://codepen.io/webdevbernard/pen/mdqJmzX)                                    |
-| React-tictactoe       |
-| React-weather-app     |
-| React-typescript-todo |
+| Description        | Links                                                                                      |
+| ------------------ | ------------------------------------------------------------------------------------------ |
+| Algo-excercises    | [JS Algorithm Answers](https://github.com/StephenGrider/algocasts)                         |
+| MVC-express-server | [Test Express Server with Fetch API CodePen](https://codepen.io/webdevbernard/pen/mdqJmzX) |
+| React-tictactoe    |
+| React-weatherapi   |
+| React-todo         |
 
 ### Web Development Blog(s):
 
