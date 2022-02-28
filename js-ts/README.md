@@ -2,6 +2,27 @@
 
 `npx create-react-app <appname> --template typescript`
 
+- Primatives
+
+`const name: string;`
+`const isStudent: boolean;`
+
+- Union type, age can be number or string
+
+`const age: number | string;`
+
+- An Array of strings
+
+`const hobbies: string[];`
+
+- An Array of numbers
+
+`const dates: number[];`
+
+- Tuples
+
+`const role: [number, string];`
+
 ### Types
 
 - Type: labels to describe different properties + functions a value has
@@ -18,9 +39,13 @@
 | Type Annotation | Code we add to tell TS what type of value a variable refers to | `let apples: number = 5;` |
 | Type Inference  | TS tries to figure out what type of value a variable refers to | `let apples = 5;`         |
 
-### React with TypeScript
+### Interfaces
 
-- Tuples
+| Description                                                                    | Example                                                                                |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| Creates a new type, describing the property names and value types of an object | `interface Vehicle { name: string; year: number; broken: boolean; summary(): string;}` |
+
+### React with TypeScript
 
 [https://fettblog.eu/typescript-react-typeing-custom-hooks/](https://fettblog.eu/typescript-react-typeing-custom-hooks/)
 
@@ -82,9 +107,3 @@ const UserSearch: React.FC = () => {
   );
 };
 ```
-
-### Interfaces
-
-| Description                                                                    | Example                                                                                |
-| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| Creates a new type, describing the property names and value types of an object | `interface Vehicle { name: string; year: number; broken: boolean; summary(): string;}` |

@@ -1,6 +1,6 @@
 ## About
 
-- This repo contains a readme of notes and useful resources I have found online.
+- Useful resources and practice tutorials I have found related to web dev and eth dev.
 
 ## Learn Web Dev
 
@@ -10,8 +10,8 @@
 
 | Description        | Links                                                                                      |
 | ------------------ | ------------------------------------------------------------------------------------------ |
-| Algo-excercises    | [JS Algorithm Answers](https://github.com/StephenGrider/algocasts)                         |
-| MVC-express-server | [Test Express Server with Fetch API CodePen](https://codepen.io/webdevbernard/pen/mdqJmzX) |
+| algo-excercises    | [JS Algorithm Answers](https://github.com/StephenGrider/algocasts)                         |
+| mvc-express-server | [Test Express Server with Fetch API CodePen](https://codepen.io/webdevbernard/pen/mdqJmzX) |
 | tictactoe-react    |
 | weatherapi-react   |
 | todo-react         |
