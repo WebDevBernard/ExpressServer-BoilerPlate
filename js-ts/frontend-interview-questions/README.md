@@ -5,6 +5,11 @@
 [https://www.youtube.com/watch?v=vxggZffOqek](https://www.youtube.com/watch?v=vxggZffOqek)
 
 - hoisting
+- implicit and explicit binding
+- implement caching / memoize function
+- output based question on event loop
+- infinite currying
+- recursion on nested array
 
 ## more-javascript-questions.js
 
