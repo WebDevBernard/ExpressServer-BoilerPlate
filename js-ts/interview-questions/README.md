@@ -1,4 +1,12 @@
-Frontend Interview Questions:
+### Frontend Interview Questions:
+
+- refer to javascript-questions
+
+[https://www.youtube.com/watch?v=vxggZffOqek](https://www.youtube.com/watch?v=vxggZffOqek)
+
+- hoisting
+
+- refer to more-javascript-questions
 
 [https://www.youtube.com/watch?v=abbdJ4Yfm54](https://www.youtube.com/watch?v=abbdJ4Yfm54)
 
@@ -13,7 +21,3 @@ Frontend Interview Questions:
 - center a div
 - what is the box model
 - implement debounce
-
-[https://www.youtube.com/watch?v=vxggZffOqek](https://www.youtube.com/watch?v=vxggZffOqek)
-
-- hoisting
