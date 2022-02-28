@@ -2,52 +2,27 @@
 
 `npx create-react-app <appname> --template typescript`
 
-- Primatives
-
-`const name: string;`
-`const isStudent: boolean;`
-
-- Union type, age can be number or string
-
-`const age: number | string;`
-
-- An Array of strings
-
-`const hobbies: string[];`
-
-- An Array of numbers
-
-`const dates: number[];`
-
-- Tuples
-
-`const role: [number, string];`
-
 ### Types
 
-- Type: labels to describe different properties + functions a value has
+| Type            | Description                                            | Example                                                                                            |
+| --------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| Primative Types | number, boolean, void, undefined, string, symbol, null | `const name: string;` <br/> `const isStudent: boolean;`                                            |
+| Union Types     | Union type, age can be number or string                | <code>const age: number &#124; string<\code>                                                       |
+| Array Types     | array of numbers or array of strings                   | `const hobbies: string[];` <br/> `const dates: number[];`                                          |
+| Tuples          | data type containing two different data types          | `const role: [number, string];`                                                                    |
+| Object Types    | type Person & todo vs. interface Todo extends Person   | `type Person = { name: string }` <br/> `interface Todo { id?: number }` <br/> ? means optional key |
+| Function types  | a function that takes a string and return undefined    | `let printName: (name: string) => void`                                                            |
 
-| Type            | Description                                            | Example                         |
-| --------------- | ------------------------------------------------------ | ------------------------------- |
-| Primative Types | number, boolean, void, undefined, string, symbol, null |                                 |
-| Object Types    | function, array, classes, objects                      | `interface Todo { id: number }` |
-
-- Type Annotations + Type Inference
+### Type Annotations + Type Inference
 
 | Type            | Description                                                    | Example                   |
 | --------------- | -------------------------------------------------------------- | ------------------------- |
 | Type Annotation | Code we add to tell TS what type of value a variable refers to | `let apples: number = 5;` |
 | Type Inference  | TS tries to figure out what type of value a variable refers to | `let apples = 5;`         |
 
-### Interfaces
-
-| Description                                                                    | Example                                                                                |
-| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| Creates a new type, describing the property names and value types of an object | `interface Vehicle { name: string; year: number; broken: boolean; summary(): string;}` |
-
 ### React with TypeScript
 
-[https://fettblog.eu/typescript-react-typeing-custom-hooks/](https://fettblog.eu/typescript-react-typeing-custom-hooks/)
+- [Writing a custom hook](https://fettblog.eu/typescript-react-typeing-custom-hooks/)
 
 - React Parent Component
 
