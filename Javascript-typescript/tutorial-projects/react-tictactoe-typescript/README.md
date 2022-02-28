@@ -1,7 +1,7 @@
 ### Installation
 
-`run: npm install`
-`npm run dev`
+`run: npm install`<br/>
+`npm run dev`<br/>
 `view on: localhost:3000`
 
 ### Tutorial
