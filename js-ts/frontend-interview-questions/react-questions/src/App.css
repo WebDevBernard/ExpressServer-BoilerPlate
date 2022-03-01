@@ -12,6 +12,18 @@
   padding: 1rem;
 }
 
+.inner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  font-size: 24px;
+  font-weight: bold;
+
+  width: 6rem;
+}
+
 .p {
   display: flex;
   justify-content: center;

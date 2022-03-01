@@ -1,2 +1,2 @@
-- useEffect with Counter
+- useState / useReducer / useEffect with Counter
 - Debounce with Input

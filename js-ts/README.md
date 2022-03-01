@@ -9,7 +9,6 @@
 | Primative Types | number, boolean, void, undefined, string, symbol, null | `const name: string;` <br/> `const isStudent: boolean;`                                            |
 | Union Types     | Union type, age can be number or string                | <code>const age: number &#124; string<\code>                                                       |
 | Array Types     | array of numbers or array of strings                   | `const hobbies: string[];` <br/> `const dates: number[];`                                          |
-| Tuples          | data type containing two different data types          | `const role: [number, string];`                                                                    |
 | Object Types    | type Person & todo vs. interface Todo extends Person   | `type Person = { name: string }` <br/> `interface Todo { id?: number }` <br/> ? means optional key |
 | Function types  | a function that takes a string and return undefined    | `let printName: (name: string) => void`                                                            |
 
@@ -22,7 +21,7 @@
 
 ### React with TypeScript
 
-- [Writing a custom hook](https://fettblog.eu/typescript-react-typeing-custom-hooks/)
+### [React Custom Hook](https://fettblog.eu/typescript-react-typeing-custom-hooks/)
 
 - React Parent Component
 
