@@ -1,2 +1,4 @@
 - useState / useReducer / useEffect with Counter
 - Debounce with Input
+- React fetch API
+- React Tic Tac Toe
