@@ -1,10 +1,8 @@
 ## About
 
-- Useful resources and practice tutorials I have found related to web dev and eth dev.
+- Reference material and practice tutorials I have found related to web dev and eth dev.
 
 ## Learn Web Dev
-
-- A collection of learning resources related to web dev.
 
 ### What else is in this Repo:
 
@@ -20,16 +18,14 @@
 
 ### Reference Materials:
 
+- [Redux ToolKit](https://redux-toolkit.js.org/usage/immer-reducers)
+- [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
+- [VS Code React Snippets](https://github.com/dsznajder/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md)
 - [JavaScript.info](https://javascript.info/)
-- [Html & CSS](https://wtf.tw/ref/duckett.pdf)
-- [Eloquent JS](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 
 ## Learn Eth Dev
-
-- A collection of learning resources related to eth dev.
 
 ### Reference Material:
 
 - [Solidity Notes](https://0xpranay.github.io/solidity-notes/)<br />
 - [Mastering Ethereum Book](https://cypherpunks-core.github.io/ethereumbook/01what-is.html)<br />
-- [Solidity Cheat Sheet](https://github.com/manojpramesh/solidity-cheatsheet)
