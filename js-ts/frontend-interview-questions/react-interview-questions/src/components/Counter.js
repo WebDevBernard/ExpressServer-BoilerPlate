@@ -1,10 +1,7 @@
-import { useState, useEffect, useReducer } from "react";
-import "./App.css";
-
-const initialState = {
-  count: 0,
-};
-
+import "../App.css";
+import { useState, useReducer } from "react";
+// <========== Create a counter ==========>
+// useReducer to set counter
 const reducer = (state, action) => {
   switch (action.type) {
     case "INCREMENT":
@@ -19,25 +16,12 @@ const reducer = (state, action) => {
       return state;
   }
 };
-
-// delays a function from happening immediately
-const myDebounce = (cb, d) => {
-  let timer;
-  return function (...args) {
-    if (timer) clearTimeout(timer);
-    timer = setTimeout(() => {
-      cb(...args);
-    }, d);
-  };
+const initialState = {
+  count: 0,
 };
-
-function App() {
+export default function ReactCounter() {
   const [state, dispatch] = useReducer(reducer, initialState);
   const [counter, setCounter] = useState(0);
-  const handleChange = myDebounce((e) => {
-    console.log(e.target.value);
-  }, 1000);
-
   const counterAdd = () => {
     setCounter(counter + 1);
   };
@@ -46,13 +30,8 @@ function App() {
     setCounter(counter - 1);
   };
 
-  useEffect(() => {
-    console.log("useState:", counter);
-    console.log("useReducer:", state.count);
-  }, [counter, state.count]);
-
   return (
-    <div className="App">
+    <div className="counterbox">
       <div className="box">
         <p className="p">Counter with useState</p>
         <p className="p">Count: {counter}</p>
@@ -83,12 +62,6 @@ function App() {
           </button>
         </div>
       </div>
-      <div className="box">
-        <p className="p">Input with Debounce</p>
-        <input onChange={handleChange} />
-      </div>
     </div>
   );
 }
-
-export default App;

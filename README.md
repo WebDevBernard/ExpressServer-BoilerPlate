@@ -6,16 +6,13 @@
 
 - A collection of learning resources related to web dev.
 
-### Practice Projects in this Repo
+### What else is in this Repo:
 
-| Description                  | Links                                                                                      |
-| ---------------------------- | ------------------------------------------------------------------------------------------ |
-| algo-excercises              | [JS Algorithm Answers](https://github.com/StephenGrider/algocasts)                         |
-| mvc-express-server           | [Test Express Server with Fetch API CodePen](https://codepen.io/webdevbernard/pen/mdqJmzX) |
-| frontend-interview-questions |
-| tictactoe-react              |
-| weatherapi-react             |
-| todo-react                   |
+| Description                  | Links                                                                                                       |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| algo-excercises              | [JS Algorithm Questions](https://github.com/WebDevBernard/LearningResources/tree/main/js-ts/algo-exercises) |
+| frontend-interview-questions |                                                                                                             |
+| mern-todo                    |                                                                                                             |
 
 ### Web Development Blog(s):
 
