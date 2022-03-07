@@ -12,6 +12,10 @@
 | frontend-interview-questions | [frontend-questions](https://github.com/WebDevBernard/LearningResources/tree/main/js-ts/frontend-interview-questions) |
 | mern-todo                    | [mern-todo](https://github.com/WebDevBernard/LearningResources/tree/main/js-ts/mern-todo/)                            |
 
+### Free Full-Stack MERN React Course:
+
+- [Fullstackopen](https://fullstackopen.com/en/about/)
+
 ### Web Development Blog(s):
 
 - [Tania Rascia](https://www.taniarascia.com/blog/)

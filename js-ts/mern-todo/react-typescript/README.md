@@ -1,6 +1,6 @@
 [https://www.youtube.com/watch?v=FJDVKeh7RJI](https://www.youtube.com/watch?v=FJDVKeh7RJI)
 
-### Toggle Complete, Delete, Edit
+### Toggle Complete, Delete, Edit:
 
 ```
   const [edit, setEdit] = useState<boolean>(false);
