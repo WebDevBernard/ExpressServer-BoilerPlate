@@ -18,7 +18,7 @@ What I plan to make:
 
 Stretch:
 
-- Implement either MongoDB or AWS Lambda backend.
+- Implement either MongoDB or DynamoDB.
 - Auth0 login for different users.
 - Favourite a note, filtering using React search library or simple filter function.
 
@@ -43,3 +43,9 @@ Each Note should have these keys:
 - As a user I should be able to download my markdown so that I can have my own copy.
 - As a user I should be able to select different notebooks so that all my notes are organized.
 - As a user I should be able to drop my tasks into a deleted folder so that I can recover it in case I change my mind.
+
+## Tech Stack
+
+[React-Syntax-Highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)<br/>
+[Codemirror](https://github.com/uiwjs/react-codemirror)<br/>
+[React-Markdown](https://github.com/uiwjs/react-markdown-preview)

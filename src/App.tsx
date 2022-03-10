@@ -1,14 +1,8 @@
-import { ChangeEvent, useState } from "react";
-import Input from "./components/Input";
-import NotesList from "./components/NotesList";
+import Editor from "./components/Editor/Editor";
 function App() {
-  const [input, setInput] = useState("");
-
   return (
-    <div className="App">
-      <NotesList input={input} />
-
-      <Input language="xml" setInput={setInput} input={input} />
+    <div className="mx-auto w-1/2">
+      <Editor />
     </div>
   );
 }
