@@ -2,11 +2,12 @@ import { FC } from "react";
 import ReactMarkdown from "react-markdown";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { dracula } from "react-syntax-highlighter/dist/esm/styles/prism";
-
+import gfm from "remark-gfm";
 const ReactMd: FC<{ input: string }> = ({ input }) => {
   return (
     <div>
       <ReactMarkdown
+        remarkPlugins={[gfm]}
         children={input}
         components={{
           code({ node, inline, className, children, ...props }) {
