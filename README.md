@@ -33,6 +33,8 @@ Each Note should have these keys:
   noteId: string
   noteTitle: string
   noteContent: string
+  createdAt: number
+  updatedAt: number
   isTrash: boolean
 }
 

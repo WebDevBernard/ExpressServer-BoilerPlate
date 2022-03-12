@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@layer base {
-  strong {
-    @apply text-lg font-bold leading-normal text-[#9580FF];
-  }
-}

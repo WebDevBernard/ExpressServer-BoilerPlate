@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  strong {
+    @apply text-lg font-bold leading-normal text-[#9580FF];
+  }
+}
+
+.border {
+  @apply border-[1px] border-slate-200;
+}
+
+.hero {
+  @apply h-4 w-4 mr-2;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+.cm-editor {
+  background-color: aliceblue;
+  overflow: auto;
+  padding: 16px;
+}
+
+.cm-cm {
+  color: transparent;
+}
