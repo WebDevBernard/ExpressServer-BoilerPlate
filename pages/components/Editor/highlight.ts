@@ -1,14 +1,15 @@
 export default {
   'code[class*="language-"]': {
-    fontFamily:
-      'Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace',
-    fontSize: "16px",
-    lineHeight: "1.375",
-    direction: "ltr",
     textAlign: "left",
     whiteSpace: "pre",
     wordSpacing: "normal",
     wordBreak: "normal",
+    wordWrap: "normal",
+    color: "#eee",
+
+    fontFamily: "Roboto Mono, monospace",
+    fontSize: "1em",
+    lineHeight: "1.5em",
     MozTabSize: "4",
     OTabSize: "4",
     tabSize: "4",
@@ -18,15 +19,16 @@ export default {
     hyphens: "none",
   },
   'pre[class*="language-"]': {
-    fontFamily:
-      'Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace',
-    fontSize: "16px",
-    lineHeight: "0",
-    direction: "ltr",
     textAlign: "left",
     whiteSpace: "pre",
     wordSpacing: "normal",
     wordBreak: "normal",
+    wordWrap: "normal",
+    color: "#eee",
+
+    fontFamily: "Roboto Mono, monospace",
+    fontSize: "1em",
+    lineHeight: "1.5em",
     MozTabSize: "4",
     OTabSize: "4",
     tabSize: "4",
@@ -34,185 +36,156 @@ export default {
     MozHyphens: "none",
     msHyphens: "none",
     hyphens: "none",
-    color: "#38BDF8",
     overflow: "auto",
-    background: "#1E293B",
-    padding: "2px",
-  },
-  'pre > code[class*="language-"]': {
-    fontSize: "16px",
-  },
-  'pre[class*="language-"]::-moz-selection': {
-    textShadow: "none",
-    background: "#004a9e",
-  },
-  'pre[class*="language-"] ::-moz-selection': {
-    textShadow: "none",
-    background: "#004a9e",
+    position: "relative",
   },
   'code[class*="language-"]::-moz-selection': {
-    textShadow: "none",
-    background: "#004a9e",
+    background: "#363636",
+  },
+  'pre[class*="language-"]::-moz-selection': {
+    background: "#363636",
   },
   'code[class*="language-"] ::-moz-selection': {
-    textShadow: "none",
-    background: "#004a9e",
+    background: "#363636",
   },
-  'pre[class*="language-"]::selection': {
-    textShadow: "none",
-    background: "#004a9e",
-  },
-  'pre[class*="language-"] ::selection': {
-    textShadow: "none",
-    background: "#004a9e",
+  'pre[class*="language-"] ::-moz-selection': {
+    background: "#363636",
   },
   'code[class*="language-"]::selection': {
-    textShadow: "none",
-    background: "#004a9e",
+    background: "#363636",
+  },
+  'pre[class*="language-"]::selection': {
+    background: "#363636",
   },
   'code[class*="language-"] ::selection': {
-    textShadow: "none",
-    background: "#004a9e",
+    background: "#363636",
+  },
+  'pre[class*="language-"] ::selection': {
+    background: "#363636",
   },
   ':not(pre) > code[class*="language-"]': {
-    padding: ".1em",
-    borderRadius: ".3em",
+    whiteSpace: "normal",
+    borderRadius: "0.2em",
+    padding: "0.1em",
   },
-  comment: {
-    color: "#4a5f78",
+  ".language-css > code": {
+    color: "#fd9170",
   },
-  prolog: {
-    color: "#4a5f78",
+  ".language-sass > code": {
+    color: "#fd9170",
   },
-  doctype: {
-    color: "#4a5f78",
+  ".language-scss > code": {
+    color: "#fd9170",
   },
-  cdata: {
-    color: "#4a5f78",
-  },
-  punctuation: {
-    color: "#4a5f78",
-  },
-  namespace: {
-    Opacity: ".7",
-  },
-  tag: {
-    color: "#0aa370",
-  },
-  operator: {
-    color: "#0aa370",
-  },
-  number: {
-    color: "#0aa370",
-  },
-  property: {
-    color: "#57718e",
-  },
-  function: {
-    color: "#57718e",
-  },
-  "tag-id": {
-    color: "#ebf4ff",
-  },
-  selector: {
-    color: "#ebf4ff",
-  },
-  "atrule-id": {
-    color: "#ebf4ff",
-  },
-  "code.language-javascript": {
-    color: "#7eb6f6",
-  },
-  "attr-name": {
-    color: "#7eb6f6",
-  },
-  "code.language-css": {
-    color: "#47ebb4",
-  },
-  "code.language-scss": {
-    color: "#47ebb4",
-  },
-  boolean: {
-    color: "#47ebb4",
-  },
-  string: {
-    color: "#47ebb4",
-  },
-  entity: {
-    color: "#47ebb4",
-    cursor: "help",
-  },
-  url: {
-    color: "#47ebb4",
-  },
-  ".language-css .token.string": {
-    color: "#47ebb4",
-  },
-  ".language-scss .token.string": {
-    color: "#47ebb4",
-  },
-  ".style .token.string": {
-    color: "#47ebb4",
-  },
-  "attr-value": {
-    color: "#47ebb4",
-  },
-  keyword: {
-    color: "#47ebb4",
-  },
-  control: {
-    color: "#47ebb4",
-  },
-  directive: {
-    color: "#47ebb4",
-  },
-  unit: {
-    color: "#47ebb4",
-  },
-  statement: {
-    color: "#47ebb4",
-  },
-  regex: {
-    color: "#47ebb4",
+  '[class*="language-"] .namespace': {
+    Opacity: "0.7",
   },
   atrule: {
-    color: "#47ebb4",
+    color: "#c792ea",
   },
-  placeholder: {
-    color: "#47ebb4",
+  "attr-name": {
+    color: "#ffcb6b",
   },
-  variable: {
-    color: "#47ebb4",
+  "attr-value": {
+    color: "#a5e844",
+  },
+  attribute: {
+    color: "#a5e844",
+  },
+  boolean: {
+    color: "#c792ea",
+  },
+  builtin: {
+    color: "#ffcb6b",
+  },
+  cdata: {
+    color: "#80cbc4",
+  },
+  char: {
+    color: "#80cbc4",
+  },
+  class: {
+    color: "#ffcb6b",
+  },
+  "class-name": {
+    color: "#f2ff00",
+  },
+  comment: {
+    color: "#616161",
+  },
+  constant: {
+    color: "#c792ea",
   },
   deleted: {
-    textDecoration: "line-through",
+    color: "#ff6666",
   },
-  inserted: {
-    borderBottom: "1px dotted #ebf4ff",
-    textDecoration: "none",
+  doctype: {
+    color: "#616161",
   },
-  italic: {
-    fontStyle: "italic",
+  entity: {
+    color: "#ff6666",
+  },
+  function: {
+    color: "#c792ea",
+  },
+  hexcode: {
+    color: "#f2ff00",
+  },
+  id: {
+    color: "#c792ea",
   },
   important: {
-    fontWeight: "bold",
-    color: "#7eb6f6",
+    color: "#c792ea",
   },
-  bold: {
-    fontWeight: "bold",
+  inserted: {
+    color: "#80cbc4",
   },
-  "pre > code.highlight": {
-    Outline: ".4em solid #34659d",
-    OutlineOffset: ".4em",
+  keyword: {
+    color: "#c792ea",
   },
-  ".line-numbers .line-numbers-rows": {
-    borderRightColor: "#1f2932",
+  number: {
+    color: "#fd9170",
   },
-  ".line-numbers-rows > span:before": {
-    color: "#2c3847",
+  operator: {
+    color: "#89ddff",
   },
-  ".line-highlight": {
-    background:
-      "linear-gradient(to right, rgba(10, 163, 112, 0.2) 70%, rgba(10, 163, 112, 0))",
+  prolog: {
+    color: "#616161",
+  },
+  property: {
+    color: "#80cbc4",
+  },
+  "pseudo-class": {
+    color: "#a5e844",
+  },
+  "pseudo-element": {
+    color: "#a5e844",
+  },
+  punctuation: {
+    color: "#89ddff",
+  },
+  regex: {
+    color: "#f2ff00",
+  },
+  selector: {
+    color: "#ff6666",
+  },
+  string: {
+    color: "#a5e844",
+  },
+  symbol: {
+    color: "#c792ea",
+  },
+  tag: {
+    color: "#ff6666",
+  },
+  unit: {
+    color: "#fd9170",
+  },
+  url: {
+    color: "#ff6666",
+  },
+  variable: {
+    color: "#ff6666",
   },
 };

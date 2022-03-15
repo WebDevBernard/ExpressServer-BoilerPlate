@@ -6,7 +6,7 @@
 body {
   background-color: #0f172a;
 }
-@layer base {
+/* @layer base {
   strong {
     @apply text-lg leading-normal text-dark_text;
   }
@@ -23,9 +23,9 @@ body {
   }
   ul,
   li {
-    @apply text-lg leading-normal text-neutral_text;
+    @apply text-lg leading-normal text-neutral_text list-disc;
   }
-}
+} */
 
 .border {
   @apply border-2 border-[#808EA3] rounded-sm;

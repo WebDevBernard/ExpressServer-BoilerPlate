@@ -1,7 +1,6 @@
 import highlight from "./highlight";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
-import prettier from "prettier";
-import parser from "prettier/parser-babel";
+
 const Highlighter: any = {
   code({ children, className, ...props }: any) {
     let language = "jsx";
@@ -12,7 +11,7 @@ const Highlighter: any = {
     return (
       <div>
         <SyntaxHighlighter
-          className="border-[1px] my-[16px] bg-secondary w-fit  border-neutral_text rounded-md p-4"
+          className="border-[1px] bg-secondary w-fit border-neutral_text rounded-md p-1"
           style={highlight}
           PreTag="div"
           language={language}
