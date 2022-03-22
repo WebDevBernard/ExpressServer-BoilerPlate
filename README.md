@@ -1,1 +1,1 @@
-repo for JS algo exercises and MVC express server
+repo for MVC express server and JS algo exercises
