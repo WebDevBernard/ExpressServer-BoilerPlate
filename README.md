@@ -1,1 +1,1 @@
-projects completed on [frontendmentor.io](https://www.frontendmentor.io/home)
+repo for JS algo exercises and MVC express server
