@@ -1,0 +1,11 @@
+- map vs forEach
+- null vs undefined
+- explain event delegation
+- Flatten an array
+- var vs let vs const
+- Explain Call, Apply and Bind
+- currying and composition
+- implement Promise.all
+- center a div
+- what is the box model
+- implement debounce
